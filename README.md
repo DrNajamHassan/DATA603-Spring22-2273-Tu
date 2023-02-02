@@ -31,7 +31,7 @@ Upon completion, students will:
 
 Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Building - Rm. 239
 
-01/31/20232 - 05/16/2023
+01/31/2023 - 05/16/2023
 
 # Syllabus (Subject to change)
 
