@@ -47,7 +47,7 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | **Week 8** | 03-21-2023  |- Spring Break - No Class |
 | **Week 9** | 03-28-2023  |- Data Warehouse, Data Lakes & Data Lakehouse<br/>- Apache Hive | - Assignment 3: Using Apache Spark |
 | **Week 10** | 04-04-2023  |- "FAANG" Big Data Presentations and Discussion | - Company Assessment: Final Presentation ||
-| **Week 11** | 04-11-2023  |- Apache HBase<br/><br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
+| **Week 11** | 04-11-2023  |- Apache HBase<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
 | **Week 12** | 04-18-2023  |- Apache Pig<br/>- Technical Paper Presentation | - Technical Paper: Final Submission |
 | **Week 13** | 04-25-2023  |- Apache HUE<br/>- Hadoop YARN |
 | **Week 14** | 05-02-2023  |- Apache ZooKeeper<br/>- Graph Analytics ||
