@@ -41,7 +41,7 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | **Week 2** | 02-07-2023  |- Distributed File Systems and File Formats<br/>- Distributed Databases | - Groups Created |
 | **Week 3** | 02-14-2023  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown<br/> - Company Assessment: Company Selected & Assigned |
 | **Week 4** | 02-21-2023  |- NoSQL Databases | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
-| **Week 5** | 02-28-2023  |- Introduction to Apache Spark | - Project: Team Assignment & Project Selection<-br>- Assignment 2: Word Count using MapReduce |
+| **Week 5** | 02-28-2023  |- Introduction to Apache Spark | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
 | **Week 6** | 03-07-2023  |- Spark Resilient Distributed Dataset (RDD)<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
 | **Week 7** | 03-14-2023  |- Spark Streaming<br/>- Apache Storm<br/>- Apache Kafka | - Project: Proposal Presentation |
 | **Week 8** | 03-21-2023  |- Spring Break - No Class |
