@@ -39,7 +39,7 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | --- | --- | --- | --- |
 | **Week 1** | 01-31-2023 | - Syllabus and Course Introduction ||
 | **Week 2** | 02-07-2023  |- Introduction to Big Data | - Groups Created |
-| **Week 3** | 02-14-2023  |- Introduction to Distributed Computing<br/>- Map Reduce <br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown<br/> - Company Assessment: Company Selected & Assigned |
+| **Week 3** | 02-14-2023  |- Introduction to Distributed Computing<br/>- Introduction to Cloud Computing<br/>- Map Reduce | - Assignment 1: Big Data Topics Markdown<br/> - Company Assessment: Company Selected & Assigned |
 | **Week 4** | 02-21-2023  |- Hadoop Distributed File System<br/>- NoSQL Databases<br/>- Apache Pig | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
 | **Week 5** | 02-28-2023  |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
 | **Week 6** | 03-07-2023  |- Spark Streaming<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
