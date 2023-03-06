@@ -42,16 +42,16 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | **Week 3** | 02-14-2023  |- Introduction to Distributed Computing<br/>- Map Reduce <br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown<br/> - Company Assessment: Company Selected & Assigned |
 | **Week 4** | 02-21-2023  |- Hadoop Distributed File System<br/>- NoSQL Databases<br/>- Apache Pig | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
 | **Week 5** | 02-28-2023  |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
-| **Week 6** | 03-07-2023  |- Apache Hive<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
-| **Week 7** | 03-14-2023  |- Spark Streaming<br/>- Apache Storm<br/>- Apache Kafka | - Project: Proposal Presentation |
+| **Week 6** | 03-07-2023  |- Spark Streaming<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
+| **Week 7** | 03-14-2023  |- Apache Storm<br/>- Apache Kafka | - Project: Proposal Presentation |
 | **Week 8** | 03-21-2023  |- Spring Break - No Class |
-| **Week 9** | 03-28-2023  | | - Assignment 3: Using Apache Spark |
+| **Week 9** | 03-28-2023  |- Apache Hive<br/>- Apache HUE | - Assignment 3: Using Apache Spark |
 | **Week 10** | 04-04-2023  |- Big Data Organizations: Company Assessment Presentations | - Company Assessment: Final Presentation ||
 | **Week 11** | 04-11-2023  |- Apache HBase<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
 | **Week 12** | 04-18-2023  |- Technical Paper Presentations | - Technical Paper: Final Submission |
-| **Week 13** | 04-25-2023  |- Apache HUE<br/>- Hadoop YARN |
-| **Week 14** | 05-02-2023  |- Apache ZooKeeper<br/>- Graph Analytics ||
-| **Week 15** | 05-09-2023  |- Quiz #2 | - Quiz 2: Week 6-14 |
+| **Week 13** | 04-25-2023  |- Hadoop YARN |
+| **Week 14** | 05-02-2023  |- Apache ZooKeeper ||
+| **Week 15** | 05-09-2023  |- Graph Analytics<br/>- Quiz #2 | - Quiz 2: Week 6-14 |
 | **Week 16** | 05-16-2023  |- Project Presentations | - Final Project Submission |
 
 # Suggested Readings:
