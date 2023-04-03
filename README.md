@@ -43,9 +43,9 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | **Week 4** | 02-21-2023  |- Hadoop Distributed File System<br/>- NoSQL Databases<br/>- Apache Pig | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
 | **Week 5** | 02-28-2023  |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
 | **Week 6** | 03-07-2023  |- Spark Streaming<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
-| **Week 7** | 03-14-2023  |- Apache Hue<br/>- Apache Hive ||
-| **Week 8** | 03-21-2023  |- Spring Break - No Class |
-| **Week 9** | 03-28-2023  |- Apache Hive<br/>- Apache HUE | - Assignment 3: Using Apache Spark<br/>- Project: Proposal Presentation |
+| **Week 7** | 03-14-2023  |- No class due to power outage ||
+| **Week 8** | 03-21-2023  |- Spring Break | - No class |
+| **Week 9** | 03-28-2023  |- Apache Hive<br/>- Apache Hue | - Assignment 3: Using Apache Spark<br/>- Project: Proposal Presentation |
 | **Week 10** | 04-04-2023  |- Big Data Organizations: Company Assessment Presentations | - Company Assessment Presentation |
 | **Week 11** | 04-11-2023  |- Apache Storm<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
 | **Week 12** | 04-18-2023  |- Technical Paper Presentations | - Technical Paper: Final Submission |
