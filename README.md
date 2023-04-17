@@ -51,7 +51,7 @@ Tuesday – 4:30 - 7:00, in-person, on-site classes in Information Technology Bu
 | **Week 12** | 04-18-2023  |- Technical Paper Presentations | - Technical Paper: Final Submission |
 | **Week 13** | 04-25-2023  |- Graph Analytics<br/>- Project: Progress Report | - Project: Progress Report |
 | **Week 14** | 05-02-2023  |- Apache ZooKeeper<br/>- Hadoop YARN ||
-| **Week 15** | 05-09-2023  |- - Apache HBase<br/>- Quiz #2 | - Quiz 2: Week 6-14 |
+| **Week 15** | 05-09-2023  |- Apache HBase<br/>- Quiz #2 | - Quiz 2: Week 6-14 |
 | **Week 16** | 05-16-2023  |- Project Presentations | - Final Project Submission |
 
 # Suggested Readings:
